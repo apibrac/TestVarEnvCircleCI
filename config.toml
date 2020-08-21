@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "apibrac.github.io/TestVarEnvCircleCI/"
 languageCode = "en-us"
 title = "Test vars envs"
 theme = "ananke"
+publishDir = "docs"
